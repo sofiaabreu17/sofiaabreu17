@@ -3,8 +3,11 @@
 ## Me chamo Sofia e tenho 18 anos. 
  Sou estudante do Instituto Federal de São Paulo e estou cursando Análise e Desenvolvimento de Sistemas. 
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiaabreu17)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiaabreu17&theme=tokyonight&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaabreu17&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sofiaabreu17&theme=tokyonight)
 <!--
 **sofiaabreu17/sofiaabreu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
