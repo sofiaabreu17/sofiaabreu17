@@ -1,7 +1,7 @@
 
 # Oie! 
 Me chamo Sofia e tenho 18 anos. 
-Sou estudante do Instituto Federal de São Paulo e estou cursando Análise e Desenvolvimento de Sistemas. 
+# Sou estudante do Instituto Federal de São Paulo e estou cursando Análise e Desenvolvimento de Sistemas. 
 
 <!--
 **sofiaabreu17/sofiaabreu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
